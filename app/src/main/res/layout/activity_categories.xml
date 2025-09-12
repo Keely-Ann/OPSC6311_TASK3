@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Categories">
+
+    <TextView
+        android:id="@+id/textViewCategories"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Categories"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="34sp" />
+
+    <Button
+        android:id="@+id/btnAddCategory2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add Category" />
+
+    <Button
+        android:id="@+id/btnDeleteCategory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#131313"
+        android:text="DELETE CATEGORY" />
+
+    <ListView
+        android:id="@+id/lstCategories"
+        android:layout_width="match_parent"
+        android:layout_height="555dp"
+        android:layout_weight="1"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btnBack6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#131313"
+        android:text="BACK TO HOME" />
+
+</LinearLayout>

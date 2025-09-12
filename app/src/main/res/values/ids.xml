@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewAddMovie2" type="id" />
+    <item name="textViewSignOut" type="id" />
+    <item name="textViewCategories6" type="id" />
+    <item name="textViewGoals2" type="id" />
+    <item name="textViewAddCategories" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="textViewWelcome" type="id" />
+    <item name="imageButtonAddCategory" type="id" />
+    <item name="imageButtonGoals" type="id" />
+</resources>

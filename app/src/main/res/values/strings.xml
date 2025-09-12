@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hollywood House</string>
+    <string name="addcategory" />
+    <string name="goals">goals</string>
+    <string name="progressbar">progressbar</string>
+    <string name="signout">signout</string>
+    <string name="categories">categories</string>
+    <string name="addmovies">addmovies</string>
+    <string name="selectcategory">select category</string>
+    <string name="setgoal">set goal</string>
+</resources>
